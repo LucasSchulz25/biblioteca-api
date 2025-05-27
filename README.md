@@ -3,6 +3,7 @@
 API RESTful construida con Node.js, Express, TypeScript y MongoDB para gestionar libros de una biblioteca digital.
 
 ## 🚀 Tecnologías
+
 - Node.js + Express
 - TypeScript
 - MongoDB + Mongoose
@@ -11,7 +12,7 @@ API RESTful construida con Node.js, Express, TypeScript y MongoDB para gestionar
 ## 🔧 Instalación
 
 ```bash
-git clone https://github.com/tuusuario/biblioteca-api.git
+git clone https://github.com/LucasSchulz25/biblioteca-api.git
 cd biblioteca-api
 npm install
 cp .env.example .env
@@ -27,6 +28,7 @@ npm run dev
 - `DELETE /api/books/:id` → Elimina un libro
 
 ## ✅ Criterios cumplidos
+
 ✔ CRUD completo  
 ✔ Patrón MVC  
 ✔ Mongoose + validaciones  
